@@ -1,3 +1,6 @@
+a:visited {
+  color: #0071bc;
+}
 .banner a, .banner a:visited, .banner, .usa-footer-secondary_section, .usa-footer-secondary_section a, .usa-footer-secondary_section a:visited {
   color: #fff;
 }
@@ -25,7 +28,6 @@ a.usa-footer-primary-link, .usa-footer .usa-footer-primary-link, a.usa-footer-pr
   color: #fff;
   padding-bottom: 100px;
   padding-top: 50px;
-  text-align: center;
 }
 .actions {
   text-align: center;
